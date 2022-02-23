@@ -2,7 +2,7 @@
 A simple js blog for everybody
 
 ## How to use
-Go to [`src/main.js`]() and add 
+Go to [`src/main.js`](https://github.com/UsboKirishima/everybody-blog/blob/main/src/main.js) and add 
 ```js
 { id: 1, author: 'MyName', post: 'My beautiful post!' },
 ```
