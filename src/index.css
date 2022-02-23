@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+h1, h2 {
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+}
+h2{
+    font-size: 14px;
+}
+button {
+    background: blue;
+    border: 0px solid transparent;
+    width: 50px;
+    height: 25px;
+    border-radius: 3px;
+    color: #fff;
+}
