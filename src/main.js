@@ -1,6 +1,7 @@
-//All posts (Alphabetic order)
+//All posts
 const posts = [
-    { id: 0, author: 'UsboKirishima', post: 'This is the first post!' },
+    { id: 0, author: 'System', post: 'This is the first post!' },
+    { id: 1, author: 'UsboKirishima', post: 'Hello, I\'m usbo, i like to code! Search me on discord: usbo#8613' },
 ];
 
 
