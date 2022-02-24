@@ -2,6 +2,7 @@
 const posts = [
     { id: 0, author: 'System', post: 'This is the first post!' },
     { id: 1, author: 'UsboKirishima', post: 'Hello, I\'m usbo, i like to code! Search me on discord: usbo#8613' },
+    { id: 2, author: 'Thebigbot', post: 'Hello! I am thebigbot, I am an Italian Developer. (Github: https://github.com/Thebigbot0000)' },
 ];
 
 
